@@ -1,3 +1,0 @@
-new
-function
-is testing
