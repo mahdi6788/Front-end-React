@@ -1,8 +1,1 @@
-first try in git
-
-second line
-
-
-
-
-learning git
+Here is file 1 file
