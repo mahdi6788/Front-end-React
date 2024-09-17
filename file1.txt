@@ -6,7 +6,4 @@ second line
 third line
 
 
-kl
-dsd
-
-...
+learning git
